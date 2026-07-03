@@ -1,0 +1,33 @@
+{
+  "id": "9cff9890-34ab-44e8-aec3-1f3abf1bcf4b",
+  "name": "wd Production Plus",
+  "publisher": "wissberg dynamics GmbH",
+  "version": "28.2.1.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://wissberg.com/",
+  "logo": "./assets/wb_Logo_rgb_bold-L.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 71994800,
+      "to": 71994899
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}

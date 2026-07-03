@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-DE" original="WD Production Plus">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 3964630315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>InsertBOMLine</source>
+          <target state="translated">Fertigungsstücklistenzeile einfügen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InsertBOMLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3964630315 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Production BOM No. must be set.</source>
+          <target state="translated">Die Nummer der Fertigungsstückliste muss festgelegt werden.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InsertBOMLine - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Page 3964630315 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to set the Production BOM Header to Status Under Development?</source>
+          <target state="translated">Möchten Sie den Status des Stücklistenkopfs für die Fertigung auf „In Entwicklung“ setzen?</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InsertBOMLine - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 3964630315 - Action 2667510389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finish</source>
+          <target state="translated">Fertigstellen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InsertBOMLine - Action Finish - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3964630315 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <target state="translated">Funktionen</target>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InsertBOMLine - Action Category_Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2758554431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>InsertRoutingLine</source>
+          <target state="translated">Arbeitsgang einfügen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InsertRoutingLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2758554431 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Routing No. must be set.</source>
+          <target state="translated">Die Arbeitsplannr. muss festgelegt werden.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InsertRoutingLine - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Page 2758554431 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to set the Routing Plan Header to Status Under Development?</source>
+          <target state="translated">Möchten Sie den Status des Routingplan-Kopfes auf „In Entwicklung“ setzen?</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InsertRoutingLine - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 2758554431 - Action 2667510389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finish</source>
+          <target state="translated">Fertigstellen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InsertRoutingLine - Action Finish - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2758554431 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <target state="translated">Funktionen</target>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InsertRoutingLine - Action Category_Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 770401362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BOM FactBox</source>
+          <target state="translated">Stücklistendetails</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD BOM FactBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 423529701 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item FactBox</source>
+          <target state="translated">Artikeldetails</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Item FactBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2440056356 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Machine Center FactBox</source>
+          <target state="translated">Arbeitsplatzdetails</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Machine Center FactBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WD Production Plus</source>
+          <target state="translated">WD Fertigungsstruktur</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - NamedType 3318901587" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Could not find items with BOM levels.</source>
+          <target state="translated">Es konnten keine Artikel mit Stücklistenebenen gefunden werden.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - NamedType CouldNotFindBOMLevelsErr</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are no warnings.</source>
+          <target state="translated">Es gibt keine Warnungen.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Method 1080453686 - NamedType 889771585" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fertigungsstueckliste,Arbeitsplan</source>
+          <target state="translated">Fertigungsstueckliste,Arbeitsplan</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Method ChangeStatus - NamedType SelectObjectLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Method 1080453686 - NamedType 1307225917" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Welchen Status moechten Sie aendern?</source>
+          <target state="translated">Welchen Status möchten Sie ändern?</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Method ChangeStatus - NamedType SelectObjectQst</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Method 1080453686 - NamedType 3157142954" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Under Development,Certified</source>
+          <target state="translated">In Entwicklung, Zertifiziert</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Method ChangeStatus - NamedType SelectStatusLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Method 1080453686 - NamedType 2898591926" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auf welchen Status soll geaendert werden?</source>
+          <target state="translated">Auf welchen Status soll geändert werden?</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Method ChangeStatus - NamedType SelectStatusQst</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 739346273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <target state="translated">Zeilen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 2606577716 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the BOM line has setup or data issues.</source>
+          <target state="translated">Gibt an, ob bei der Stücklistenzeile Probleme mit der Einrichtung oder den Daten vorliegen.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control HasWarning - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 2606577716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning</source>
+          <target state="translated">Warnung</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control HasWarning - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 167802785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target state="translated">Status Fertigungsstückliste</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD BOM Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 2074253445 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BOM Type</source>
+          <target state="translated">Art</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD BOM Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 413548422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Concurrent Capacities</source>
+          <target state="translated">Gleichzeitig zu belasten</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD Concurrent Capacities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 3124581439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fixed Scrap Quantity</source>
+          <target state="translated">Fixe Ausschussmenge</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD Fixed Scrap Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 87989368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Date Modified</source>
+          <target state="translated">Letzte Änderung</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD Last Date Modified - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 3885935833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Move Time</source>
+          <target state="translated">Transportzeit</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD Move Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 1917394866 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next Operation No.</source>
+          <target state="translated">Nächste Arbeitsgangnr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD Next Operation No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 2675962955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operation No.</source>
+          <target state="translated">Arbeitsgangnr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD Operation No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 834227884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Previous Operation No.</source>
+          <target state="translated">Vorherige Arbeitsgangnr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD Previous Operation No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 4107056145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Production BOM No.</source>
+          <target state="translated">Fert.-Stücklistennr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD Production BOM No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 732645265 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity per</source>
+          <target state="translated">Komponentenmenge</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD Quantity per - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 3911379018 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Routing Status</source>
+          <target state="translated">Status Arbeitsplan</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD Rout. Plan Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 12740830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Routing Link Code</source>
+          <target state="translated">Verbindungscode</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD Routing Link Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 3051328092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Routing No.</source>
+          <target state="translated">Arbeitsplannr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD Routing No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 1762210097 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run Time</source>
+          <target state="translated">Bearbeitungszeit</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD Run Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 1655056447 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scrap %</source>
+          <target state="translated">Ausschuss in % (BOM)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD Scrap % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 1813479532 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scrap Factor %</source>
+          <target state="translated">Ausschussfaktor % (Arbeitsplan)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD Scrap Factor % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 3855864244 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send-Ahead Quantity</source>
+          <target state="translated">Weitergabemenge</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD Send-Ahead Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 3751084771 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup Time</source>
+          <target state="translated">Rüstzeit</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD Setup Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 4065106643 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Cost per</source>
+          <target state="translated">Einstandspreis per</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD Unit Cost per - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 3143200311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wait Time</source>
+          <target state="translated">Wartezeit</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control WD Wait Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 828292189 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Option</source>
+          <target state="translated">Option</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control Option - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 1553686271 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the items that are shown in the BOM Structure window.</source>
+          <target state="translated">Legt fest, welche Elemente im Fenster „Stücklistenstruktur“ angezeigt werden.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control ItemFilter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Control 1553686271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Filter</source>
+          <target state="translated">Artikel Filter</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Control ItemFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 1327594867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Item Availability by</source>
+          <target state="translated">&amp;Artikelverfügbarkeit von</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action &amp;Item Availability by - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 2882465090 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View availability figures for items on bills of materials that show how many units of a parent item you can make based on the availability of child items.</source>
+          <target state="translated">Zeigen Sie die Verfügbarkeitszahlen für Artikel in Stücklisten an, aus denen hervorgeht, wie viele Einheiten eines übergeordneten Artikels Sie auf der Grundlage der Verfügbarkeit der untergeordneten Artikel herstellen können.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action BOM Level - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 2882465090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BOM Level</source>
+          <target state="translated">Stücklistenebene</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action BOM Level - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 3310733264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View how the actual and the projected available balance of an item will develop over time according to supply and demand events.</source>
+          <target state="translated">Sehen Sie sich an, wie sich der tatsächliche und der prognostizierte verfügbare Bestand eines Artikels im Laufe der Zeit in Abhängigkeit von Angebots- und Nachfrageereignissen entwickeln wird.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Event - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 3310733264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Event</source>
+          <target state="translated">Ereignis</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Event - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 3891454143 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the actual and projected quantity of the item per location.</source>
+          <target state="translated">Zeigen Sie die tatsächliche und die voraussichtliche Menge des Artikels pro Lagerort an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Location - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 3891454143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location</source>
+          <target state="translated">Lagerort</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 4230226825 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the current and projected quantity of the item in each lot.</source>
+          <target state="translated">Zeigen Sie die aktuelle und voraussichtliche Menge des Artikels in jeder Charge an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Lot - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 4230226825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lot</source>
+          <target state="translated">Charge</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Lot - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 912261439 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the projected quantity of the item over time according to time periods, such as day, week, or month.</source>
+          <target state="translated">Zeigen Sie die prognostizierte Menge des Artikels im Zeitverlauf nach Zeiträumen wie Tag, Woche oder Monat an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Period - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 912261439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period</source>
+          <target state="translated">Zeitraum</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Period - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 112710097 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit the item's variants. Instead of setting up each color of an item as a separate item, you can set up the various colors as variants of the item.</source>
+          <target state="translated">Die Varianten des Artikels anzeigen oder bearbeiten. Anstatt jede Farbe eines Artikels als separaten Artikel anzulegen, können Sie die verschiedenen Farben als Varianten des Artikels anlegen.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Variant - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 112710097 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variant</source>
+          <target state="translated">Variante</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Variant - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 1181470318 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change Status</source>
+          <target state="translated">Status ändern</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Change Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 3090498344 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create BOM</source>
+          <target state="translated">Fertigungsstückliste erstellen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Create BOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 2924948141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Routing Plan</source>
+          <target state="translated">Arbeitsplan erstellen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Create Routing Plan - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 3600821387 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert BOM Line</source>
+          <target state="translated">Fertigungsstücklistenzeile einfügen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Insert BOM Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 3600821387 - Method 1377591017 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type must be Item</source>
+          <target state="translated">Der Typ muss „Artikel“ sein</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Insert BOM Line - Method OnAction - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 2488228063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Routing Line</source>
+          <target state="translated">Arbeitsgang einfügen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Insert Routing Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 2488228063 - Method 1377591017 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type must be Item</source>
+          <target state="translated">Der Typ muss „Artikel“ sein</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Insert Routing Line - Method OnAction - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 4069834516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Card</source>
+          <target state="translated">Öffne Karte</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Open Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 57182865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Production BOM</source>
+          <target state="translated">Öffne Fertigungsstückliste</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Open Production BOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 4123091716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Routing</source>
+          <target state="translated">Öffne Arbeitsplan</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Open Routing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 2933143100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Refresh Structure</source>
+          <target state="translated">Struktur aktualisieren</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Refresh Structure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 389008550 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View details about bottlenecks.</source>
+          <target state="translated">Details zu Engpässen anzeigen.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Show Warnings - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 389008550 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Warnings</source>
+          <target state="translated">Warnungen anzeigen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Show Warnings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 1587086413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Availability by</source>
+          <target state="translated">Artikelverfügbarkeit nach</target>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 3.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Category_Category4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <target state="translated">Funktionen</target>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Category_Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972682526 - Action 2234406979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report</source>
+          <target state="translated">Melden</target>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 2.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Production Plus - Action Category_Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1237223918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Routing FactBox</source>
+          <target state="translated">Arbeitsplandetails</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Routing FactBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 681867280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Workcenter FactBox</source>
+          <target state="translated">Arbeitsplatzgruppendetails</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Work Center FactBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 367979645 - Action 2972682526 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>WD Production Plus</source>
+          <target state="translated">WD Fertigungsstruktur</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension WD Item Card Ext - Action WD Production Plus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 167802785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>BOM Status</source>
+          <target state="translated">FertigungssStücklistenstatus</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD BOM Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 2074253445 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>BOM Type</source>
+          <target state="translated">Art</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD BOM Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 413548422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>Concurrent Capacities</source>
+          <target state="translated">Gleichzeitig zu belasten</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD Concurrent Capacities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 3124581439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>Fixed Scrap Quantity</source>
+          <target state="translated">Fixe Ausschussmenge</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD Fixed Scrap Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 87989368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>Last Date Modified</source>
+          <target state="translated">Letzte Änderung</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD Last Date Modified - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 3885935833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>Move Time</source>
+          <target state="translated">Transportzeit</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD Move Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 1917394866 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>Next Operation No.</source>
+          <target state="translated">Nächste Arbeitsgangnr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD Next Operation No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 2675962955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>Operation No.</source>
+          <target state="translated">Arbeitsgangnr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD Operation No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 834227884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>Previous Operation No.</source>
+          <target state="translated">Vorherige Arbeitsgangnr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD Previous Operation No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 4107056145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>Production BOM No.</source>
+          <target state="translated">Fert.-Stücklistennr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD Production BOM No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 732645265 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>Quantity per</source>
+          <target state="translated">Komponentenmenge</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD Quantity per - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 3911379018 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>Routing Status</source>
+          <target state="translated">Status Arbeitsplan</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD Rout. Plan Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 12740830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>Routing Link Code</source>
+          <target state="translated">Verbindungscode</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD Routing Link Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 3051328092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>Routing No.</source>
+          <target state="translated">Arbeitsplannr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD Routing No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 1762210097 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>Run Time</source>
+          <target state="translated">Bearbeitungszeit</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD Run Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 1655056447 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>Scrap %</source>
+          <target state="translated">Ausschuss in % (BOM)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD Scrap % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 1813479532 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>Scrap Factor %</source>
+          <target state="translated">Ausschussfaktor % (Arbeitsplan)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD Scrap Factor % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 3855864244 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>Send-Ahead Quantity</source>
+          <target state="translated">Weitergabemenge</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD Send-Ahead Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 3751084771 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>Setup Time</source>
+          <target state="translated">Rüstzeit</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD Setup Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 4065106643 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>Unit Cost per</source>
+          <target state="translated">Einstandspreis per</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD Unit Cost per - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 669921622 - Field 3143200311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
+          <source>Wait Time</source>
+          <target state="translated">Wartezeit</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD Wait Time - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
