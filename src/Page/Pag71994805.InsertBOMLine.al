@@ -18,8 +18,6 @@ page 71994805 "InsertBOMLine"
                 field(Description; Rec.Description) { ApplicationArea = All; }
                 field("Quantity per"; Rec."Quantity per") { ApplicationArea = All; }
                 field("Unit of Measure Code"; Rec."Unit of Measure Code") { ApplicationArea = All; }
-                //                field("Unit Cost"; UnitCost) { ApplicationArea = All; Editable = false; }
-                //                field(Inventory; Inventory) { ApplicationArea = All; Editable = false; }
                 field("Scrap %"; Rec."Scrap %") { ApplicationArea = All; }
                 field("Routing Link Code"; Rec."Routing Link Code") { ApplicationArea = All; }
                 field(Width; Rec.Width) { ApplicationArea = All; }
@@ -75,10 +73,12 @@ page 71994805 "InsertBOMLine"
             Error(Error01);
         Rec.SetRange("Production BOM No.", BOMNo);
         BOMHeader.Get(BOMNo);
-        if not confirm(Text001, false) then
-            CurrPage.Close();
-        WDProductionPlusMgt.setBOMHeaderUnderDevelopment(BOMNo);
-
+        if bomHeader.Status <> bomHeader.Status::"Under Development" then begin
+            if not confirm(Text001, false) then begin
+            end else begin
+                WDProductionPlusMgt.setBOMHeaderUnderDevelopment(BOMNo);
+            end;
+        end;
     end;
 
     trigger OnAfterGetRecord()

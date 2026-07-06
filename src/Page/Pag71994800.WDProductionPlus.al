@@ -256,7 +256,8 @@ page 71994800 "WD Production Plus"
             {
                 ApplicationArea = All;
                 SubPageLink = "No." = field("No.");
-                visible = Rec.Type = Rec.Type::Item;
+                //visible = Rec.Type = Rec.Type::Item;
+                visible = true;
             }
             part(BOMFactBox; "WD BOM FactBox")
             {

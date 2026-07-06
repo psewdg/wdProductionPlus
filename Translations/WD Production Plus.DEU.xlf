@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en-US" target-language="de-DE" original="WD Production Plus">
+  <file datatype="xml" source-language="en-US" target-language="de-DE" original="wd Production Plus">
     <body>
       <group id="body">
         <trans-unit id="Page 3964630315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -477,6 +477,12 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension WD Item Card Ext - Action WD Production Plus - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 2053203511 - Action 2972682526 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>WD Production Plus</source>
+          <target state="translated">WD Fertigungsstruktur</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension WD Item List Ext - Action WD Production Plus - Property Caption</note>
+        </trans-unit>
         <trans-unit id="TableExtension 669921622 - Field 167802785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3589646212">
           <source>BOM Status</source>
           <target state="translated">FertigungssStücklistenstatus</target>
@@ -602,6 +608,12 @@
           <target state="translated">Wartezeit</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension WD BOM Buffer Ext - Field WD Wait Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 3167306517 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>wd Production Plus SUPER</source>
+          <target state="translated">wd Production Plus SUPER</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet wdProductionPlus_SU - Property Caption</note>
         </trans-unit>
       </group>
     </body>

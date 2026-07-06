@@ -78,9 +78,11 @@ page 71994806 "InsertRoutingLine"
             Error(Error01);
         Rec.SetRange("Routing No.", RoutingNo);
         RoutingHeader.Get(RoutingNo);
-        if not confirm(Text001, false) then
-            CurrPage.Close();
-        WDProductionPlusMgt.setRoutingHeaderUnderDevelopment(RoutingNo);
+        if RoutingHeader.Status <> RoutingHeader.Status::"Under Development" then
+            if not confirm(Text001, false) then begin
+            end else begin
+                WDProductionPlusMgt.setRoutingHeaderUnderDevelopment(RoutingNo);
+            end;
     end;
 
     procedure SetRoutingNo(NewRoutingNo: Code[20])
